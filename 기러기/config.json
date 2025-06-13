@@ -1,0 +1,1262 @@
+{
+  "A4_단_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_이80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_이80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백100_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백100_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백80_IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백80_CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4_단_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_날_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5_단_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_날_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5_단_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_날_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_스유_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_미80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_이80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백100_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판_단_아무_백80_COVER": {
+    "file": "D:/개발/cannon_auto/COVER JDF/COVER.JDF",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  }
+}

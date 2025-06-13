@@ -1,0 +1,787 @@
+{
+  "A4 단 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 스유 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 스유 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A4 단 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A4/A4_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 단 아무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "A5 날 아무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/A5/A5_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 이80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 이80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_이라이트80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 미100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 미100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 미80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 미80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 스유 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스유 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 단 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "B5 날 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/B5/B5_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 단 아무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_단_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 백100 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 백100 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 백80 IMP": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_IMP.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 아무 백80 CS": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모80_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  },
+  "46판 날 스무 이80 COVER": {
+    "file": "D:/개발/cannon_auto/JDF 양식/2호기/46판/46판_미모100_날_CS.jdf",
+    "pattern": "@@COPIES@@",
+    "method": "attribute"
+  }
+}
