@@ -31,11 +31,10 @@ class HotFolderManager:
         self.pause_flags_global.set()
         self.folder_stop = {"stop": False}
         self.threads = {}
-        self.status_items = {}
         self.folder_buttons = {}
         self.progress_bars = {}
-
-        self.remaining_label = None
+        self.status_labels = {}
+        self.time_labels = {}
 
         self.load_config()
         self.load_sort_order()
@@ -49,25 +48,50 @@ class HotFolderManager:
         setting_menu.add_command(label="전체 자동 전송 끄기", command=lambda: self.toggle_all_auto(False))
         setting_menu.add_command(label="\U0001f504 수량 새로고침", command=self.update_file_counts)
         menu.add_cascade(label="설정", menu=setting_menu)
+        menu.add_command(label="발주서 업로드", command=self.upload_order)
         self.master.config(menu=menu)
 
     def toggle_all_auto(self, state):
         for folder in self.folder_names:
             self.auto_trigger[folder].set(1 if state else 0)
 
+    def upload_order(self):
+        file_path = filedialog.askopenfilename(
+            title="발주서 선택", filetypes=[("Excel files", "*.xlsx *.xls")]
+        )
+        if not file_path:
+            return
+        try:
+            import shutil
+            import main
+            os.makedirs(main.UPLOAD_FOLDER, exist_ok=True)
+            dest_path = os.path.join(main.UPLOAD_FOLDER, os.path.basename(file_path))
+            shutil.copy2(file_path, dest_path)
+            messagebox.showinfo("업로드 완료", f"{dest_path} 에 저장했습니다.")
+            main.main()
+            messagebox.showinfo("완료", "JDF 파일 생성이 완료되었습니다.")
+        except Exception as e:
+            messagebox.showerror("오류", f"업로드 실패: {e}")
+
     def build_ui(self):
+        control = tk.Frame(self.master)
+        control.grid(row=0, column=0, sticky='w', pady=5)
+
+        tk.Button(control, text="▶️ 전체 전송 시작", command=self.run_all_folders_thread).pack(side=tk.LEFT, padx=2)
+        tk.Button(control, text="⏸ 전체 일시정지", command=self.toggle_global_pause).pack(side=tk.LEFT, padx=2)
+        tk.Button(control, text="\U0001f504 수량 새로고침", command=self.update_file_counts).pack(side=tk.LEFT, padx=2)
+
+        row_offset = 1
         for idx, folder in enumerate(self.folder_names):
             full_path = os.path.join(self.base_folder, folder)
             os.makedirs(full_path, exist_ok=True)
 
             frame = tk.Frame(self.master)
-            frame.grid(row=idx, column=0, sticky='w', pady=2)
+            frame.grid(row=row_offset + idx, column=0, sticky='w', pady=2)
 
-            label = tk.Label(frame, text=folder, width=25, anchor='w')
-            label.pack(side=tk.LEFT)
+            tk.Label(frame, text=folder, width=25, anchor='w').pack(side=tk.LEFT)
 
-            btn = tk.Button(frame, text="\U0001f517 경로 설정", command=lambda f=folder: self.set_hotfolder(f))
-            btn.pack(side=tk.LEFT, padx=5)
+            tk.Button(frame, text="\U0001f517 경로 설정", command=lambda f=folder: self.set_hotfolder(f)).pack(side=tk.LEFT, padx=5)
 
             default_path = self.hotfolder_configs.get(folder, {}).get("hotfolder", self.DEFAULT_HOTFOLDER)
             self.hotfolder_paths[folder] = default_path
@@ -77,52 +101,40 @@ class HotFolderManager:
 
             auto = tk.IntVar(value=1 if self.hotfolder_configs.get(folder, {}).get("auto") else 0)
             self.auto_trigger[folder] = auto
-            auto_check = tk.Checkbutton(frame, text="자동 전송", variable=auto)
-            auto_check.pack(side=tk.LEFT, padx=5)
+            tk.Checkbutton(frame, text="자동 전송", variable=auto).pack(side=tk.LEFT, padx=5)
 
             jdf_pdf_label = tk.Label(frame, text="", width=20)
             jdf_pdf_label.pack(side=tk.LEFT)
             self.file_count_labels[folder] = jdf_pdf_label
 
             self.sort_orders[folder] = tk.StringVar(value=self.sort_orders.get(folder, "오름차순"))
-            sort_menu = tk.OptionMenu(frame, self.sort_orders[folder], "오름차순", "내림차순")
-            sort_menu.pack(side=tk.LEFT, padx=3)
+            tk.OptionMenu(frame, self.sort_orders[folder], "오름차순", "내림차순").pack(side=tk.LEFT, padx=3)
 
             send_btn = tk.Button(frame, text="▶️", command=lambda f=folder: self.toggle_folder_execution(f))
             send_btn.pack(side=tk.LEFT, padx=5)
             self.folder_buttons[folder] = send_btn
 
-            bar = ttk.Progressbar(frame, length=100)
-            bar.pack(side=tk.LEFT, padx=5)
+            pb_frame = tk.Frame(frame, width=120, height=18)
+            pb_frame.pack_propagate(0)
+            pb_frame.pack(side=tk.LEFT, padx=5)
+
+            bar = ttk.Progressbar(pb_frame, length=120)
+            bar.pack(fill='both', expand=True)
             self.progress_bars[folder] = bar
 
-        save_btn = tk.Button(self.master, text="\U0001f504 설정 저장", command=self.save_config)
-        save_btn.grid(row=len(self.folder_names), column=0, pady=10)
+            time_label = tk.Label(pb_frame, text="00:00", bg=pb_frame.cget("background"))
+            time_label.place(relx=0.5, rely=0.5, anchor='center')
+            self.time_labels[folder] = time_label
 
-        run_btn = tk.Button(self.master, text="▶️ 전체 전송 시작", command=self.run_all_folders_thread)
-        run_btn.grid(row=len(self.folder_names) + 1, column=0, pady=5)
+            status_label = tk.Label(frame, text="대기", width=10)
+            status_label.pack(side=tk.LEFT, padx=5)
+            self.status_labels[folder] = status_label
 
-        pause_btn = tk.Button(self.master, text="⏸ 전체 일시정지", command=self.toggle_global_pause)
-        pause_btn.grid(row=len(self.folder_names) + 2, column=0, pady=5)
-
-        refresh_btn = tk.Button(self.master, text="\U0001f504 수량 새로고침", command=self.update_file_counts)
-        refresh_btn.grid(row=len(self.folder_names) + 3, column=0, pady=5)
-
-        self.tree = ttk.Treeview(self.master, columns=("folder", "status"), show="headings")
-        self.tree.heading("folder", text="폴더")
-        self.tree.heading("status", text="상태")
-        for f in self.folder_names:
-            item = self.tree.insert("", tk.END, values=(f, "대기"))
-            self.status_items[f] = item
-
-        self.tree.tag_configure("running", background="#ffeeba")
-        self.tree.grid(row=len(self.folder_names) + 4, column=0, padx=5, pady=5)
-
-        self.remaining_label = tk.Label(self.master, text="예상 남은 시간: -")
-        self.remaining_label.grid(row=len(self.folder_names) + 5, column=0, pady=2)
+        tk.Button(self.master, text="\U0001f504 설정 저장", command=self.save_config)\
+            .grid(row=len(self.folder_names) + row_offset, column=0, pady=10)
 
         self.log_text = tk.Text(self.master, height=10, width=90, bg="#f2f2f2")
-        self.log_text.grid(row=len(self.folder_names) + 6, column=0, padx=5, pady=5)
+        self.log_text.grid(row=len(self.folder_names) + row_offset + 1, column=0, padx=5, pady=5)
 
         self.update_file_counts()
 
@@ -188,22 +200,16 @@ class HotFolderManager:
             self.log_text.see(tk.END)
         self.master.after(0, update_text)
 
-    def update_status(self, folder, status, progress=None, remaining=None):
+    def update_status(self, folder, status, progress=None, elapsed=None):
         def _update():
-            item = self.status_items.get(folder)
-            if item:
-                self.tree.set(item, "status", status)
-                if "전송 중" in status:
-                    self.tree.item(item, tags=("running",))
-                else:
-                    self.tree.item(item, tags=())
-            bar = self.progress_bars.get(folder)
-            if bar is not None and progress is not None:
-                bar['value'] = progress
-            if remaining is not None and self.remaining_label:
-                mins = remaining // 60
-                secs = remaining % 60
-                self.remaining_label.config(text=f"예상 남은 시간: {mins}분 {secs}초")
+            if folder in self.status_labels:
+                self.status_labels[folder].config(text=status)
+            if folder in self.progress_bars and progress is not None:
+                self.progress_bars[folder]['value'] = progress
+            if folder in self.time_labels and elapsed is not None:
+                mins = elapsed // 60
+                secs = elapsed % 60
+                self.time_labels[folder].config(text=f"{mins:02d}:{secs:02d}")
         self.master.after(0, _update)
 
     def set_hotfolder(self, folder):
@@ -234,8 +240,6 @@ class HotFolderManager:
         sort_order_path = os.path.join(self.base_folder, self.SORT_ORDER_FILE)
         with open(sort_order_path, "w", encoding="utf-8") as f:
             json.dump({f: self.sort_orders[f].get() for f in self.folder_names}, f, indent=4, ensure_ascii=False)
-
-        messagebox.showinfo("저장 완료", f"설정이 저장되었습니다:\n{config_path}\n정렬 설정 저장됨: {sort_order_path}")
 
     def load_sort_order(self):
         sort_order_path = os.path.join(self.base_folder, self.SORT_ORDER_FILE)
