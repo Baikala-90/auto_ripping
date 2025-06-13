@@ -1,6 +1,6 @@
 import os
 import tkinter as tk
-from tkinter import filedialog, messagebox
+from tkinter import filedialog, messagebox, ttk
 import json
 import threading
 import auto_rip_executor as executor
@@ -31,6 +31,11 @@ class HotFolderManager:
         self.pause_flags_global.set()
         self.folder_stop = {"stop": False}
         self.threads = {}
+        self.status_items = {}
+        self.folder_buttons = {}
+        self.progress_bars = {}
+
+        self.remaining_label = None
 
         self.load_config()
         self.load_sort_order()
@@ -85,6 +90,11 @@ class HotFolderManager:
 
             send_btn = tk.Button(frame, text="▶️", command=lambda f=folder: self.toggle_folder_execution(f))
             send_btn.pack(side=tk.LEFT, padx=5)
+            self.folder_buttons[folder] = send_btn
+
+            bar = ttk.Progressbar(frame, length=100)
+            bar.pack(side=tk.LEFT, padx=5)
+            self.progress_bars[folder] = bar
 
         save_btn = tk.Button(self.master, text="\U0001f504 설정 저장", command=self.save_config)
         save_btn.grid(row=len(self.folder_names), column=0, pady=10)
@@ -98,8 +108,21 @@ class HotFolderManager:
         refresh_btn = tk.Button(self.master, text="\U0001f504 수량 새로고침", command=self.update_file_counts)
         refresh_btn.grid(row=len(self.folder_names) + 3, column=0, pady=5)
 
+        self.tree = ttk.Treeview(self.master, columns=("folder", "status"), show="headings")
+        self.tree.heading("folder", text="폴더")
+        self.tree.heading("status", text="상태")
+        for f in self.folder_names:
+            item = self.tree.insert("", tk.END, values=(f, "대기"))
+            self.status_items[f] = item
+
+        self.tree.tag_configure("running", background="#ffeeba")
+        self.tree.grid(row=len(self.folder_names) + 4, column=0, padx=5, pady=5)
+
+        self.remaining_label = tk.Label(self.master, text="예상 남은 시간: -")
+        self.remaining_label.grid(row=len(self.folder_names) + 5, column=0, pady=2)
+
         self.log_text = tk.Text(self.master, height=10, width=90, bg="#f2f2f2")
-        self.log_text.grid(row=len(self.folder_names) + 4, column=0, padx=5, pady=5)
+        self.log_text.grid(row=len(self.folder_names) + 6, column=0, padx=5, pady=5)
 
         self.update_file_counts()
 
@@ -117,17 +140,31 @@ class HotFolderManager:
             self.append_log("▶️ 전체 재시작됨")
 
     def toggle_folder_execution(self, folder):
+        btn = self.folder_buttons.get(folder)
         if folder in self.threads and self.threads[folder].is_alive():
-            self.pause_flags[folder].clear()
-            self.append_log(f"⏸ {folder} 일시정지됨")
+            if self.pause_flags[folder].is_set():
+                self.pause_flags[folder].clear()
+                if btn:
+                    btn.config(text="▶️")
+                self.append_log(f"⏸ {folder} 일시정지됨")
+                self.update_status(folder, "일시정지")
+            else:
+                self.pause_flags[folder].set()
+                if btn:
+                    btn.config(text="⏸")
+                self.append_log(f"▶️ {folder} 재시작됨")
+                self.update_status(folder, "전송 중")
         else:
             self.pause_flags[folder].set()
+            if btn:
+                btn.config(text="⏸")
             t = threading.Thread(target=self.send_single_folder, args=(folder,))
             self.threads[folder] = t
             t.start()
 
     def send_single_folder(self, folder):
         self.append_log(f"📦 {folder} 전송 시작")
+        self.update_status(folder, "전송 중")
         executor.start_auto_transfer(
             base_folder=self.base_folder,
             folder_names=[folder],
@@ -136,9 +173,14 @@ class HotFolderManager:
             log_callback=self.append_log,
             sort_orders={folder: self.sort_orders[folder].get()},
             pause_flag=self.pause_flags_global,
-            folder_stop=self.folder_stop
+            folder_stop=self.folder_stop,
+            status_callback=self.update_status,
+            folder_pause_flag=self.pause_flags[folder]
         )
         self.update_file_counts()
+        btn = self.folder_buttons.get(folder)
+        if btn:
+            btn.config(text="▶️")
 
     def append_log(self, message):
         def update_text():
@@ -146,8 +188,26 @@ class HotFolderManager:
             self.log_text.see(tk.END)
         self.master.after(0, update_text)
 
+    def update_status(self, folder, status, progress=None, remaining=None):
+        def _update():
+            item = self.status_items.get(folder)
+            if item:
+                self.tree.set(item, "status", status)
+                if "전송 중" in status:
+                    self.tree.item(item, tags=("running",))
+                else:
+                    self.tree.item(item, tags=())
+            bar = self.progress_bars.get(folder)
+            if bar is not None and progress is not None:
+                bar['value'] = progress
+            if remaining is not None and self.remaining_label:
+                mins = remaining // 60
+                secs = remaining % 60
+                self.remaining_label.config(text=f"예상 남은 시간: {mins}분 {secs}초")
+        self.master.after(0, _update)
+
     def set_hotfolder(self, folder):
-        selected = filedialog.askdirectory(title=f"'{folder}'의 HOTFOLDER 선택")
+        selected = filedialog.askdirectory(title=f"{folder}의 HOTFOLDER 선택")
         if selected:
             self.hotfolder_paths[folder] = selected
             self.check_vars[folder].config(text=selected)
